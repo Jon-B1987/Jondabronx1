@@ -1,6 +1,6 @@
 👋 Hi, I’m Jonathan (@Jondabronx1)
 
-☁️ Cloud & Backend Engineer in Training | AWS • Linux • Python • Infrastructure
+☁️ Cloud Engineer in Training | AWS • Linux • Python • Infrastructure
 
 I’m transitioning into cloud engineering after several years working in law enforcement, as a sheriff deputy, and as a detention officer at a 24/7 mission-critical public safety environment.
 
