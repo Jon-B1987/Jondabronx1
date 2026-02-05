@@ -2,7 +2,7 @@
 
 **Aspiring Cloud & Infrastructure Engineer | AWS-Focused | Operations & Reliability Mindset**
 
-I’m a former law enforcement professional transitioning into **cloud infrastructure and data technology operations**, with a strong focus on **AWS, system reliability, and large-scale operational environments**.
+I’m a former law enforcement professional transitioning into **cloud infrastructure and data technology operations**, with a strong focus on **AWS, system reliability, and large-scale operational environments. I am particularly interested in roles supporting data center operations, hardware infrastructure, and cloud platform environments where reliability and hands-on system support are critical.**.
 
 I bring 6+ years of experience working in **24/7 mission-critical facilities** where uptime, rapid incident response, documentation, and strict procedural execution were essential. I’m now applying that same operational discipline to cloud systems — building hands-on labs, learning infrastructure technologies, and developing the skills needed to support production environments.
 
